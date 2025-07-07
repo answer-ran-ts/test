@@ -7,6 +7,7 @@ console.log("在 1.0分支上的第二次提交");
 console.log('bug 修复');
 
 console.log('功能 1');
+console.log('功能 2');
 
 
 
